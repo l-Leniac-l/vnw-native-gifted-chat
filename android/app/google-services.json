@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772846079313",
+    "firebase_url": "https://projeto-incrivel-bdda9.firebaseio.com",
+    "project_id": "projeto-incrivel-bdda9",
+    "storage_bucket": "projeto-incrivel-bdda9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772846079313:android:4dd5a8eb502a9e40",
+        "android_client_info": {
+          "package_name": "com.vnwgiftedchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772846079313-qemtl9josgmbo3v5h3s4414tjr4s02op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnwgiftedchat",
+            "certificate_hash": "0a98e6ccde24ebc7b981d7a7f369797a99d6cf8d"
+          }
+        },
+        {
+          "client_id": "772846079313-6ukerc6ik1d9vkbrk4ns62h4r00dlrm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgFq9YAwL7vth1Gwbju_RNceRid0D6F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772846079313-3lu83kff9p2r34dsm68bcmolmcu38qhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
